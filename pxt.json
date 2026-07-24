@@ -1,0 +1,24 @@
+{
+    "name": "[จุดเริ่มต้น]       │      ▼ [เดินในเขาวงกต] ──► [ตกหลุมดำ!] ──► [สุ่ม/แสดงคำถาม]                                             │                       ┌─────────────────────┴─────────────────────┐                       ▼                                           ▼                  [ตอบผิด ❌]                                 [ตอบถูก ✅]                       │                                           │                       ▼                                           ▼             [กลับไปจุดเริ่มต้น]                           [ได้รับวาร์ป / ได้เดินต่อ]                                                                   │                                                                   ▼                                                           [ไปเก็บดาว ⭐️]                                                                   │                                                                   ▼                                                           [เข้าประตูผ่านด่าน 🚪]",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.0.14",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
